@@ -35,6 +35,7 @@ The firmware compares the averaged value against defined thresholds to classify 
 ## 5. Hardware Implementation
 
 ### Wiring Diagram
+![Wiring Diagram](images.jpg)
 The system requires the following connections between the GSR Module and the Arduino:
 
 | GSR Module Pin | Arduino Pin |
